@@ -1,0 +1,24 @@
+{
+  "name": "fer201m-fptu-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoaakt/fer201m-fptu-exercise.git"
+  },
+  "author": "Nguyen Anh Khoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoaakt/fer201m-fptu-exercise/issues"
+  },
+  "homepage": "https://github.com/khoaakt/fer201m-fptu-exercise#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

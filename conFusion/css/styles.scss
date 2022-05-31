@@ -69,9 +69,8 @@ body {
 }
 
 #carouselButton {
-  right: 0px;
-  position: absolute;
-  bottom: 0px;
+  margin: auto;
+  z-index: 1;
 }
 
 .modal-header {
